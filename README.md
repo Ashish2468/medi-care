@@ -4,14 +4,14 @@ This is an Medical Blockchain based app
 
 ## Main App
 
-|                          Login Screen                        |                          Form Screen                          |                         Details Screen #1                         |
+|                          Splash Screen                        |                          Login Screen                          |                         Search Screen #1                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-![](/Snips/Login.png)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
+![](/Snips/Splash.png)| ![](/Snips/Login.png)| ![](/Snips/Search.png)| 
 
 
-|                          Details Screen #2                          |                          Details Screen #3                         
+|                          Profile Screen                      |                          Upload Screen                 
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-|  ![](/snapshots/Details2.jpg)| ![](/snapshots/Details3.jpg)| 
+|  ![](/Snips/Profile.png)| ![](/Upload_File/Details3.png)| 
 
 
 ## Configuration Steps
