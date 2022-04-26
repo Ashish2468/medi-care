@@ -6,7 +6,7 @@ This is an Medical Blockchain based app
 
 |                          Login Screen                        |                          Form Screen                          |                         Details Screen #1                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-![](/Snips/Login.jpg)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
+![](/Snips/Login.png)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
 
 
 |                          Details Screen #2                          |                          Details Screen #3                         
