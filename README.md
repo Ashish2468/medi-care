@@ -11,7 +11,7 @@ This is an Medical Blockchain based app
 
 |                          Profile Screen                      |                          Upload Screen                 
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-|  ![](/Snips/Profile.png)| ![](/Upload_File/Details3.png)| 
+|  ![](/Snips/Profile.png)| ![](/Snips/Upload.png)| 
 
 
 ## Configuration Steps
